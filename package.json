@@ -1,0 +1,26 @@
+{
+  "name": "jribbble",
+  "version": "3.0.0",
+  "description": "A JavaScript library for the Dribbble API",
+  "main": "dist/jribbble.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylergaw/jribbble.git"
+  },
+  "keywords": [
+    "dribbble"
+  ],
+  "author": "Tyler Gaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylergaw/jribbble/issues"
+  },
+  "homepage": "https://jribbble.com",
+  "devDependencies": {
+    "jest": "22.4.3"
+  },
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watch"
+  }
+}
